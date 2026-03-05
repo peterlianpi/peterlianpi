@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Building+Scalable+Software;AI+%26+Data+Enthusiast;Passionate+Problem+Solver;Long-Term+Tech+Entrepreneur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Building+Scalable+Software;AI+%26+Data+Enthusiast;Passionate+Problem+Solver;Long-Term+Tech+Entrepreneur" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,6 +20,12 @@ I’m passionate about building useful software, learning new technologies, and 
 
 > 💡 **My mission** is to build meaningful technology that helps people and communities grow, ultimately aiming to become a technology entrepreneur.
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Role-Junior_Engineer-10B981?style=for-the-badge&labelColor=000000" alt="Role: Junior Engineer" />
+  <img src="https://img.shields.io/badge/Focus-AI_%26_Scalable_Systems-0F766E?style=for-the-badge&labelColor=000000" alt="Focus: AI & Scalable Systems" />
+  <img src="https://img.shields.io/badge/Location-Yangon%2C_Myanmar-047857?style=for-the-badge&labelColor=000000" alt="Location: Yangon, Myanmar" />
+</div>
+
 <table>
   <tr>
     <td width="50%">
@@ -34,6 +40,8 @@ I’m passionate about building useful software, learning new technologies, and 
     </td>
   </tr>
 </table>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -57,6 +65,8 @@ I’m passionate about building useful software, learning new technologies, and 
     <img src="https://github-profile-trophy.vercel.app/?username=peterlianpi&theme=tokyonight&margin-w=15&no-frame=true&column=6" alt="Peter's Trophies" />
   </a>
 </div>
+
+---
 
 ## 📌 Top & Pinned Repositories
 
@@ -85,6 +95,8 @@ I’m passionate about building useful software, learning new technologies, and 
   </tr>
 </table>
 
+---
+
 ## 🛠 Tech Stack
 
 <div align="center">
@@ -102,6 +114,8 @@ I’m passionate about building useful software, learning new technologies, and 
   </ul>
 </details>
 
+---
+
 ## 📫 Contact
 
 <div align="center">
@@ -115,8 +129,8 @@ I’m passionate about building useful software, learning new technologies, and 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=100&section=footer" alt="Footer Animation" />
 </div>
 
-<!-- Live 3D Scene Link (if hosted) -->
 ---
+
 <div align="center">
-  <sub>Check out my <a href="./index.html">Interactive 3D Scene</a> in this repository!</sub>
+  <sub>Interactive 3D scene showcase <b>coming soon</b> — stay tuned.</sub>
 </div>
