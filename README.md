@@ -24,7 +24,7 @@ I’m passionate about building useful software, learning new technologies, and 
   <tr>
     <td width="50%">
       <b>🎓 Education:</b> BSc Computer Science (UoPeople)<br/>
-      <b>💼 Role:</b> Senior Assistant Engineer<br/>
+      <b>💼 Role:</b> Junior Engineer<br/>
       <b>🌍 Based in:</b> Yangon, Myanmar<br/>
     </td>
     <td width="50%">
