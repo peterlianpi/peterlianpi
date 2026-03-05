@@ -33,7 +33,7 @@ I’m passionate about building useful software, learning new technologies, and 
 ## 🚀 What I'm Building
 
 - **P-Core System** – Modular multi-tenant management platform with RBAC.
-- **Student Management** – Full-stack platform for managing students and courses (Next.js, Hono.js, Prisma).
+- **EBYF Info** – PWA for church youth contact management and community engagement ([repo](https://github.com/peterlianpi/ebyf-info)).
 - **Zolai AI Language** – AI project for dataset preparation, crawlers, and LLM fine-tuning.
 
 ---
