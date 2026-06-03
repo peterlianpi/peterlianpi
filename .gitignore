@@ -1,0 +1,23 @@
+.DS_Store
+Thumbs.db
+*.log
+.live-check.html
+
+# Secrets
+deploy/secrets.env
+scripts/secrets.env
+
+# Build output
+dist/
+index.html
+index.html.bak
+
+# Generated / synced copies at repo root (edit src/ and data/ instead)
+/assets/
+/assets/js/config.js
+
+# Legacy single-file assets (replaced by src/assets/)
+/assets/portfolio.css
+/assets/portfolio.js
+/assets/portfolio-chat.js
+/assets/portfolio-chat.css

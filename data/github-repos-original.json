@@ -1,0 +1,266 @@
+﻿[
+    {
+        "name":  "zolai-ai",
+        "description":  "Zolai AI Second Brain — NLP toolkit to digitize, standardize \u0026 preserve the Tedim Zolai language. Includes data pipelines, 152k-entry dictionary, Bible corpus, LLM fine-tuning (Qwen2.5-3B LoRA), and a Next.js learning app.",
+        "url":  "https://github.com/peterlianpi/zolai-ai",
+        "language":  "TypeScript",
+        "stars":  0,
+        "updated":  "2026-05-09T12:16:09Z"
+    },
+    {
+        "name":  "peterlianpi",
+        "description":  "Config files for my GitHub profile.",
+        "url":  "https://github.com/peterlianpi/peterlianpi",
+        "language":  null,
+        "stars":  0,
+        "updated":  "2026-04-19T21:00:56Z"
+    },
+    {
+        "name":  "appointment-scheduler",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/appointment-scheduler",
+        "language":  "TypeScript",
+        "stars":  0,
+        "updated":  "2026-02-18T08:37:11Z"
+    },
+    {
+        "name":  "puzzle-place",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/puzzle-place",
+        "language":  "TypeScript",
+        "stars":  0,
+        "updated":  "2026-01-25T13:15:58Z"
+    },
+    {
+        "name":  "ebyf-info",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/ebyf-info",
+        "language":  "TypeScript",
+        "stars":  0,
+        "updated":  "2026-01-24T04:12:58Z"
+    },
+    {
+        "name":  "church-member-management",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/church-member-management",
+        "language":  "TypeScript",
+        "stars":  0,
+        "updated":  "2026-01-23T04:03:09Z"
+    },
+    {
+        "name":  "P-Core",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/P-Core",
+        "language":  "TypeScript",
+        "stars":  1,
+        "updated":  "2025-09-14T05:17:43Z"
+    },
+    {
+        "name":  "Tedim-Chin-Bible",
+        "description":  "Tedim (Chin) Bible, Lai Siangtho for ProPresenter 7 includes TDB, TB77, KJV, FCL, HCL06 and BJB.  RVA and YLT are replaced with TDB and TB77 for Tedim support. To restore RVA or YLT, re-add them from the ProPresenter library.",
+        "url":  "https://github.com/peterlianpi/Tedim-Chin-Bible",
+        "language":  null,
+        "stars":  1,
+        "updated":  "2025-08-09T05:06:03Z"
+    },
+    {
+        "name":  "Tedim-Chin-Bible-2010-for-macOS",
+        "description":  "Tedim (Chin) Bible, Lai Siangtho for macOS includes the Tedim (Chin) Bible 2010 (TDB) and Chin 1977 (Tedim Bible) (TB77).",
+        "url":  "https://github.com/peterlianpi/Tedim-Chin-Bible-2010-for-macOS",
+        "language":  null,
+        "stars":  1,
+        "updated":  "2024-12-10T11:48:02Z"
+    },
+    {
+        "name":  "Praise-And-Worship-Collective",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/Praise-And-Worship-Collective",
+        "language":  null,
+        "stars":  2,
+        "updated":  "2024-09-05T07:51:58Z"
+    },
+    {
+        "name":  "myanmarproverbs",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/myanmarproverbs",
+        "language":  "JavaScript",
+        "stars":  2,
+        "updated":  "2024-03-11T07:12:57Z"
+    },
+    {
+        "name":  "ProRemote",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/ProRemote",
+        "language":  "JavaScript",
+        "stars":  0,
+        "updated":  "2024-02-23T17:47:53Z"
+    },
+    {
+        "name":  "ProPresenter-7-Remote-Clear",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/ProPresenter-7-Remote-Clear",
+        "language":  "JavaScript",
+        "stars":  0,
+        "updated":  "2024-02-21T09:15:08Z"
+    },
+    {
+        "name":  "propresener7-api",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/propresener7-api",
+        "language":  "JavaScript",
+        "stars":  0,
+        "updated":  "2024-02-20T07:37:03Z"
+    },
+    {
+        "name":  "ProPresenter-API-Test",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/ProPresenter-API-Test",
+        "language":  "JavaScript",
+        "stars":  0,
+        "updated":  "2024-02-13T07:59:27Z"
+    },
+    {
+        "name":  "Business-Card",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/Business-Card",
+        "language":  "HTML",
+        "stars":  0,
+        "updated":  "2024-01-29T12:50:28Z"
+    },
+    {
+        "name":  "Birds",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/Birds",
+        "language":  "JavaScript",
+        "stars":  1,
+        "updated":  "2024-01-27T17:44:18Z"
+    },
+    {
+        "name":  "Pick-A-Pile",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/Pick-A-Pile",
+        "language":  "JavaScript",
+        "stars":  1,
+        "updated":  "2024-01-27T17:44:07Z"
+    },
+    {
+        "name":  "Myanmar-Food",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/Myanmar-Food",
+        "language":  "JavaScript",
+        "stars":  1,
+        "updated":  "2024-01-26T18:46:31Z"
+    },
+    {
+        "name":  "dream-dictionary",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/dream-dictionary",
+        "language":  "JavaScript",
+        "stars":  0,
+        "updated":  "2024-01-26T04:17:27Z"
+    },
+    {
+        "name":  "mintheinkha-lathtaukbaydin",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/mintheinkha-lathtaukbaydin",
+        "language":  "JavaScript",
+        "stars":  0,
+        "updated":  "2024-01-26T04:15:01Z"
+    },
+    {
+        "name":  "darkmode",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/darkmode",
+        "language":  "JavaScript",
+        "stars":  0,
+        "updated":  "2024-01-25T05:50:01Z"
+    },
+    {
+        "name":  "myanmarmonths",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/myanmarmonths",
+        "language":  "JavaScript",
+        "stars":  1,
+        "updated":  "2024-01-11T19:18:15Z"
+    },
+    {
+        "name":  "artgallery",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/artgallery",
+        "language":  "JavaScript",
+        "stars":  1,
+        "updated":  "2024-01-10T19:12:19Z"
+    },
+    {
+        "name":  "frontend",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/frontend",
+        "language":  "JavaScript",
+        "stars":  0,
+        "updated":  "2024-01-09T07:42:58Z"
+    },
+    {
+        "name":  "backend",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/backend",
+        "language":  "JavaScript",
+        "stars":  0,
+        "updated":  "2024-01-09T07:24:04Z"
+    },
+    {
+        "name":  "admin",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/admin",
+        "language":  "JavaScript",
+        "stars":  0,
+        "updated":  "2024-01-09T06:33:18Z"
+    },
+    {
+        "name":  "quizzical",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/quizzical",
+        "language":  "JavaScript",
+        "stars":  0,
+        "updated":  "2023-09-01T11:51:11Z"
+    },
+    {
+        "name":  "Media-Server-Recording",
+        "description":  "Media Server Recording Tutorial",
+        "url":  "https://github.com/peterlianpi/Media-Server-Recording",
+        "language":  "JavaScript",
+        "stars":  0,
+        "updated":  "2023-03-10T06:13:45Z"
+    },
+    {
+        "name":  "peterlianpi.github.io",
+        "description":  "HTML CSS Javascript",
+        "url":  "https://github.com/peterlianpi/peterlianpi.github.io",
+        "language":  "JavaScript",
+        "stars":  0,
+        "updated":  "2023-02-07T13:57:07Z"
+    },
+    {
+        "name":  "Draw-2D-Effect-with-Javascript",
+        "description":  null,
+        "url":  "https://github.com/peterlianpi/Draw-2D-Effect-with-Javascript",
+        "language":  "JavaScript",
+        "stars":  0,
+        "updated":  "2023-02-07T13:51:38Z"
+    },
+    {
+        "name":  "katacoda-scenarios",
+        "description":  "Katacoda Scenarios",
+        "url":  "https://github.com/peterlianpi/katacoda-scenarios",
+        "language":  null,
+        "stars":  0,
+        "updated":  "2020-08-14T13:21:35Z"
+    },
+    {
+        "name":  "Peter-Lianpi",
+        "description":  "Peter Lianpi",
+        "url":  "https://github.com/peterlianpi/Peter-Lianpi",
+        "language":  null,
+        "stars":  0,
+        "updated":  "2018-02-19T11:01:07Z"
+    }
+]

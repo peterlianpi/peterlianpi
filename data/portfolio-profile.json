@@ -1,0 +1,238 @@
+{
+  "name": "Peter Pau Sian Lian",
+  "title": "Full Stack Developer | AI Enthusiast",
+  "location": "Yangon, Myanmar",
+  "githubAvatar": "https://avatars.githubusercontent.com/u/36624809?v=4",
+  "summary": "Junior Engineer, Web Development (SAE) at Global Technology Group and BSc Computer Science student passionate about web development (PHP, Laravel, Blade, WordPress, MySQL), artificial intelligence, and building technology that helps communities grow.",
+  "mission": "Build meaningful technology that helps people and communities grow — currently focused on preserving the Tedim Zolai language through AI.",
+  "about": {
+    "intro": "I'm passionate about building useful software, learning new technologies, and solving real-world problems with code. I work across web development, artificial intelligence, data systems, and modular software architecture — with a long-term goal of becoming a technology entrepreneur.",
+    "footer": "Junior Engineer, Web Development (SAE) at Global Technology Group (GTG), Web Team · BSc Computer Science (UoPeople) · Background in tech support & repair · Also into piano and music theory."
+  },
+  "hero": {
+    "badgeRole": "Junior Engineer @ GTG",
+    "badges": [
+      { "iconHtml": "&#128205;", "text": "Yangon, Myanmar" },
+      { "iconHtml": "&#127891;", "text": "BSc CS · UoPeople" },
+      { "iconHtml": "&#9889;", "text": "Junior Engineer @ GTG" },
+      { "iconHtml": "&#128483;", "text": "EN · MY · Tedim Chin" }
+    ]
+  },
+  "typewriterPhrases": [
+    "Full Stack Developer",
+    "AI & NLP Engineer",
+    "Building Zolai AI Second Brain",
+    "Laravel · WordPress · MySQL",
+    "Open Source Contributor"
+  ],
+  "experience": [
+    {
+      "company": "Global Technology Group (GTG)",
+      "role": "Junior Engineer, Web Development (SAE)",
+      "department": "Corporate · Web Team",
+      "location": "MICT Park, Yangon",
+      "period": "Feb 2026 – Present",
+      "stack": ["PHP", "Laravel", "Blade", "WordPress", "MySQL", "Linux", "SSH", "Web servers", "API integration"],
+      "groups": [
+        {
+          "title": "Software & Web Development",
+          "items": [
+            "Develop and maintain dynamic web applications using PHP, Laravel, Blade, and WordPress",
+            "Collaborate with cross-functional teams to define and implement new features",
+            "Write clean, well-documented, and efficient code; participate in code reviews and best practices",
+            "Debug and troubleshoot application issues; support testing, deployment, and API integration"
+          ]
+        },
+        {
+          "title": "Database & Reporting",
+          "items": [
+            "Write and maintain MySQL queries and reports; assist with database maintenance and data validation",
+            "Support data updates, backups, and migration activities"
+          ]
+        },
+        {
+          "title": "System Support & Collaboration",
+          "items": [
+            "Troubleshoot software and user-related issues; monitor system performance on Linux servers (SSH, web server)",
+            "Work with programmers and project teams; prepare technical documentation and adopt company coding standards"
+          ]
+        }
+      ]
+    }
+  ],
+  "tech": {
+    "work": {
+      "label": "GTG (work)",
+      "summary": "PHP · Laravel · Blade · WordPress · MySQL · Linux · SSH · Web servers",
+      "pills": [
+        { "name": "PHP", "icon": "devicon-php-plain colored" },
+        { "name": "Laravel", "icon": "devicon-laravel-plain colored" },
+        { "name": "Blade" },
+        { "name": "WordPress", "icon": "devicon-wordpress-plain colored" },
+        { "name": "MySQL", "icon": "devicon-mysql-plain colored" },
+        { "name": "Nginx", "icon": "devicon-nginx-plain" },
+        { "name": "Linux", "icon": "devicon-linux-plain" }
+      ]
+    },
+    "personal": {
+      "label": "Personal projects & learning",
+      "summary": "Laravel · React · SQL · Next.js · TypeScript · PostgreSQL · AI/ML",
+      "pills": [
+        { "name": "Laravel", "icon": "devicon-laravel-plain colored" },
+        { "name": "React", "icon": "devicon-react-original colored" },
+        { "name": "SQL" },
+        { "name": "Next.js", "icon": "devicon-nextjs-plain" },
+        { "name": "JavaScript", "icon": "devicon-javascript-plain colored" },
+        { "name": "TypeScript", "icon": "devicon-typescript-plain colored" },
+        { "name": "Python", "icon": "devicon-python-plain colored" },
+        { "name": "Node.js", "icon": "devicon-nodejs-plain colored" },
+        { "name": "FastAPI", "icon": "devicon-fastapi-plain colored" },
+        { "name": "PostgreSQL", "icon": "devicon-postgresql-plain colored" },
+        { "name": "MongoDB", "icon": "devicon-mongodb-plain colored" },
+        { "name": "Tailwind", "icon": "devicon-tailwindcss-plain colored" },
+        { "name": "Docker", "icon": "devicon-docker-plain colored" },
+        { "name": "Git", "icon": "devicon-git-plain colored" },
+        { "name": "Ubuntu", "icon": "devicon-ubuntu-plain colored" },
+        { "name": "HuggingFace", "emojiHtml": "&#129303;" },
+        { "name": "LLM Fine-tuning", "emojiHtml": "&#129504;" }
+      ]
+    }
+  },
+  "learning": [
+    { "label": "Architecture", "class": "text-accent", "text": "Laravel & WordPress at work; Laravel, React, SQL, and Next.js in personal projects." },
+    { "label": "Data & ML", "class": "text-accent--s", "text": "Data analytics with SQL/Python, machine learning fundamentals." },
+    { "label": "AI", "class": "text-accent--a", "text": "Low-resource NLP, LLM fine-tuning, and language preservation through AI." }
+  ],
+  "projects": [
+    {
+      "featured": true,
+      "url": "https://github.com/peterlianpi/zolai-ai",
+      "iconHtml": "&#129504;",
+      "title": "Zolai AI Second Brain",
+      "description": "Open-source NLP toolkit to digitize, standardize & preserve the Tedim Zolai (Tedim Chin) language through AI. 34 agents · 46 skills · Full pipeline.",
+      "stats": [
+        { "html": "&#128218; 152k dictionary entries" },
+        { "html": "&#129302; Qwen2.5-3B LoRA" },
+        { "html": "~2M training records" },
+        { "html": "&#127760; Next.js 16 app" }
+      ],
+      "install": "curl -fsSL https://raw.githubusercontent.com/peterlianpi/zolai-ai/master/install.sh | bash",
+      "tags": ["Python", "Next.js", "React", "FastAPI"]
+    },
+    {
+      "url": "https://github.com/peterlianpi/P-Core",
+      "title": "P-Core System",
+      "description": "Modular multi-tenant management platform with role-based access control.",
+      "tags": ["TypeScript", "React"]
+    },
+    {
+      "url": "https://github.com/peterlianpi/ebyf-info",
+      "title": "EBYF Info",
+      "description": "PWA for church youth contact management and community engagement.",
+      "tags": ["TypeScript", "React"]
+    },
+    {
+      "url": "https://github.com/peterlianpi/Praise-And-Worship-Collective",
+      "title": "Praise & Worship Collective",
+      "description": "Worship music collection and management platform.",
+      "starsHtml": "&#9733;&#9733; 2 stars"
+    },
+    {
+      "url": "https://github.com/peterlianpi/Tedim-Chin-Bible",
+      "title": "Tedim Chin Bible",
+      "description": "Lai Siangtho for ProPresenter 7 — TDB, TB77, KJV, FCL, HCL06, BJB.",
+      "starsHtml": "&#9733; 1 star"
+    },
+    {
+      "url": "https://github.com/peterlianpi/Tedim-Chin-Bible-2010-for-macOS",
+      "title": "Tedim Chin Bible 2010 (macOS)",
+      "description": "Tedim Chin Bible 2010 (TDB) and Chin 1977 (TB77) for macOS.",
+      "starsHtml": "&#9733; 1 star"
+    }
+  ],
+  "languages": ["English", "Burmese (Myanmar)", "Tedim Chin"],
+  "community": [
+    {
+      "iconHtml": "&#9962;",
+      "title": "Emmanuel Baptist Church",
+      "body": "Active member in Kalaymyo — interested in technology projects that support community and ministry."
+    },
+    {
+      "iconHtml": "&#129309;",
+      "title": "Rotary Club of Central Yangon",
+      "body": "Youth Scholarship & Internship Program — training in English, digital skills, leadership, and professional development."
+    }
+  ],
+  "careerGoalsCard": {
+    "iconHtml": "&#127919;",
+    "title": "Career Goals"
+  },
+  "funFactsCard": {
+    "iconHtml": "&#10024;",
+    "title": "Fun Facts"
+  },
+  "careerGoals": [
+    "Become a successful technology entrepreneur",
+    "Build a strong tech company with a unique brand",
+    "Create products that improve people's lives",
+    "Combine AI, creativity, and leadership for impact"
+  ],
+  "funFacts": [
+    "Enjoys both programming and piano",
+    "Builds full systems from database to UI",
+    "Focused on AI for low-resource languages",
+    "Always learning new frameworks & paradigms"
+  ],
+  "links": {
+    "github": "https://github.com/peterlianpi",
+    "huggingface": "https://huggingface.co/peterpausianlian",
+    "kaggle": "https://www.kaggle.com/peterpausianlian",
+    "blog": "https://peterlianpi.blogspot.com/",
+    "email": "peterpausianlian2020@gmail.com",
+    "phone": "09265134330",
+    "phoneTel": "+959265134330",
+    "twitter": "https://twitter.com/peterlianpi"
+  },
+  "contact": [
+    {
+      "iconHtml": "&#9993;",
+      "label": "Email",
+      "value": "peterpausianlian2020@gmail.com",
+      "href": "mailto:peterpausianlian2020@gmail.com",
+      "external": false
+    },
+    {
+      "iconHtml": "&#128241;",
+      "label": "Phone",
+      "value": "092 651 34330",
+      "href": "tel:+959265134330",
+      "external": false
+    },
+    {
+      "iconHtml": "&#8984;",
+      "label": "GitHub",
+      "value": "github.com/peterlianpi",
+      "href": "https://github.com/peterlianpi",
+      "external": true
+    },
+    {
+      "iconHtml": "&#120143;",
+      "label": "Twitter / X",
+      "value": "@peterlianpi",
+      "href": "https://twitter.com/peterlianpi",
+      "external": true
+    }
+  ],
+  "chat": {
+    "prompts": [
+      "Who is Peter?",
+      "What projects has he built?",
+      "Tell me about Zolai AI",
+      "What's his tech stack?",
+      "How to contact Peter?"
+    ],
+    "welcome": "Hi! I'm Peter's portfolio assistant. Ask about his projects, skills, GTG work, or how to get in touch.",
+    "storageKey": "portfolioChatId_v3"
+  },
+  "lastUpdated": "2026-06-03"
+}
