@@ -13,19 +13,19 @@ I'm passionate about building useful software, learning new technologies, and so
 > 💡 **My mission** is to build meaningful technology that helps people and communities grow, ultimately aiming to become a technology entrepreneur.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Role-Junior_Engineer-2834C4?style=for-the-badge&labelColor=020617" alt="Role: Junior Engineer" />
+  <img src="https://img.shields.io/badge/Role-Junior_Engineer__@_GTG-2834C4?style=for-the-badge&labelColor=020617" alt="Role: Junior Engineer @ GTG" />
   <img src="https://img.shields.io/badge/Focus-AI_%26_Scalable_Systems-38BDF8?style=for-the-badge&labelColor=020617" alt="Focus: AI & Scalable Systems" />
   <img src="https://img.shields.io/badge/Location-Yangon%2C_Myanmar-0EA5E9?style=for-the-badge&labelColor=020617" alt="Location: Yangon, Myanmar" />
 </div>
 
-**Currently:** Junior Engineer · BSc Computer Science (UoPeople) · Background in tech support & repair · Also into piano and music theory.
+**Currently:** Junior Engineer, Web Development (SAE) at **Global Technology Group (GTG)** · BSc Computer Science (UoPeople) · PHP, Laravel, Blade, WordPress, MySQL at work · React/Next.js in personal projects · Piano & music theory on the side.
 
 ---
 
 ## 🛠 Tech & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,postgres,mongodb,html,css,tailwind,git,github,linux,ubuntu,docker,vercel&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,js,ts,python,react,nextjs,nodejs,postgres,mongodb,html,css,tailwind,git,github,linux,ubuntu,docker,nginx&perline=10" alt="Tech Stack" />
 </div>
 
 ---
@@ -50,15 +50,16 @@ curl -fsSL https://raw.githubusercontent.com/peterlianpi/zolai-ai/master/install
 ### Other Projects
 - **P-Core System** – Modular multi-tenant management platform with RBAC.
 - **EBYF Info** – PWA for church youth contact management ([repo](https://github.com/peterlianpi/ebyf-info)).
-- **[peterlianpi.site](https://peterlianpi.site)** – Portfolio & Zolai language hub.
+- **[peterlianpi.site](https://peterlianpi.site)** – Live portfolio & Zolai language hub.
+- **[about-me](https://github.com/peterlianpi/about-me)** – Portfolio site source (JSON → build → deploy).
 
 ---
 
 ## 📚 Learning
 
-- **Architecture**: Advanced Next.js paradigms and scalable backend design.  
-- **Data & ML**: Data analytics with SQL/Python, machine learning fundamentals.  
-- **AI**: Low-resource NLP, LLM fine-tuning, and language preservation.
+- **Architecture**: Laravel & WordPress at work; Laravel, React, SQL, and Next.js in personal projects.
+- **Data & ML**: Data analytics with SQL/Python, machine learning fundamentals.
+- **AI**: Low-resource NLP, LLM fine-tuning, and language preservation through AI.
 
 ---
 
@@ -70,6 +71,7 @@ curl -fsSL https://raw.githubusercontent.com/peterlianpi/zolai-ai/master/install
   <a href="https://huggingface.co/peterpausianlian"><img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black" alt="HuggingFace" /></a>
   <a href="https://www.kaggle.com/peterpausianlian"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://peterlianpi.site"><img src="https://img.shields.io/badge/Portfolio-peterlianpi.site-0EA5E9?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://github.com/peterlianpi/about-me"><img src="https://img.shields.io/badge/Portfolio_Source-about--me-2834C4?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source" /></a>
 </div>
 
 <br/>
