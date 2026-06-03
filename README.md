@@ -3,7 +3,7 @@
 Source for [peterlianpi.site](https://peterlianpi.site).  
 Architecture: **JSON model → build → static dist → nginx**.
 
-**GitHub:** [github.com/peterlianpi/about-me](https://github.com/peterlianpi/about-me)
+**GitHub profile:** [github.com/peterlianpi](https://github.com/peterlianpi) · **Source branch:** [peterlianpi/peterlianpi `portfolio-site`](https://github.com/peterlianpi/peterlianpi/tree/portfolio-site)
 
 ## Structure (MVC-lite)
 
@@ -57,6 +57,21 @@ Proxied to [pcore-chatgpt](https://pcore-chatgpt.peterlianpi.site/). API key onl
 | Deploy (build + upload) | `.\deploy\deploy.ps1` |
 | Refresh GitHub data | `.\scripts\fetch-github.ps1` |
 | Apply nginx | `.\deploy\apply-nginx.ps1` |
+| Refresh GitHub API data | `.\scripts\fetch-github.ps1` |
+| Push to GitHub | `.\scripts\publish-github.ps1` |
+
+## Publish to GitHub
+
+```powershell
+.\scripts\publish-github.ps1
+```
+
+This pushes:
+
+- **`portfolio-site` branch** on [peterlianpi/peterlianpi](https://github.com/peterlianpi/peterlianpi) (full portfolio source)
+- **Profile README** on `main` (if `_github-profile/` clone exists)
+
+Optional: create a dedicated [about-me](https://github.com/new?name=about-me) repo and set `GITHUB_TOKEN` to auto-create + push there.
 
 ## Server
 

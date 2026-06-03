@@ -1,58 +1,52 @@
-# Create GitHub repo (if needed) and push about-me + optional profile README
+# Push portfolio source to GitHub (profile repo branch + optional about-me repo)
 $ErrorActionPreference = 'Stop'
 $Root = Split-Path -Parent (Split-Path -Parent $MyInvocation.MyCommand.Path)
-$RepoName = 'about-me'
-$User = 'peterlianpi'
+$ProfileRepo = 'https://github.com/peterlianpi/peterlianpi.git'
+$AboutMeRepo = 'https://github.com/peterlianpi/about-me.git'
+$Branch = 'portfolio-site'
 
 Set-Location $Root
 
 if (-not (Test-Path (Join-Path $Root '.git'))) {
-    Write-Error 'Run from initialized repo. git init && git add && git commit first.'
+    Write-Error 'Not a git repo. Run: git init; git add .; git commit -m "Initial commit"'
 }
 
-if (-not (git remote get-url origin 2>$null)) {
-    git remote add origin "git@github.com:${User}/${RepoName}.git"
+if (-not (git remote get-url profile 2>$null)) {
+    git remote add profile $ProfileRepo
 }
+
+Write-Host "Pushing $Branch branch to peterlianpi/peterlianpi..."
+git push profile main:${Branch}
 
 $token = $env:GITHUB_TOKEN
 if ($token) {
-    Write-Host "Creating repo ${User}/${RepoName} (if missing)..."
-    $headers = @{
-        Authorization = "Bearer $token"
-        Accept        = 'application/vnd.github+json'
+    if (-not (git remote get-url origin 2>$null)) {
+        git remote add origin $AboutMeRepo
     }
-    $body = @{
-        name        = $RepoName
-        description = 'Source for peterlianpi.site — JSON model, build, deploy'
-        private     = $false
-    } | ConvertTo-Json
+    Write-Host 'Creating peterlianpi/about-me (if missing)...'
+    $headers = @{ Authorization = "Bearer $token"; Accept = 'application/vnd.github+json' }
+    $body = @{ name = 'about-me'; description = 'Source for peterlianpi.site'; private = $false } | ConvertTo-Json
     try {
         Invoke-RestMethod -Method Post -Uri 'https://api.github.com/user/repos' -Headers $headers -Body $body -ContentType 'application/json' | Out-Null
-        Write-Host 'Repository created.'
-    } catch {
-        if ($_.Exception.Message -notmatch 'already exists|name already exists') {
-            Write-Warning "Create repo skipped: $($_.Exception.Message)"
-        }
-    }
-} else {
-    Write-Host "No GITHUB_TOKEN — create repo manually: https://github.com/new?name=$RepoName"
+    } catch { }
+    Write-Host 'Pushing to peterlianpi/about-me...'
+    git push -u origin main
 }
-
-Write-Host 'Pushing main branch...'
-git push -u origin main
 
 $profileDir = Join-Path $Root '_github-profile'
 if (Test-Path $profileDir) {
-    Write-Host 'Pushing profile README (peterlianpi/peterlianpi)...'
+    Write-Host 'Updating profile README on main...'
     Push-Location $profileDir
+    git pull origin main
+    Copy-Item (Join-Path $Root 'data\github-readme.md') 'README.md' -Force -ErrorAction SilentlyContinue
     git add README.md
-    if (git diff --cached --quiet) {
-        Write-Host 'Profile README unchanged.'
-    } else {
-        git commit -m "Update profile README: GTG role, portfolio source, tech stack"
+    if (-not (git diff --cached --quiet)) {
+        git commit -m "Sync profile README with portfolio"
         git push origin main
     }
     Pop-Location
 }
 
-Write-Host "Done: https://github.com/${User}/${RepoName}"
+Write-Host 'Done.'
+Write-Host "  Source: https://github.com/peterlianpi/peterlianpi/tree/$Branch"
+if ($token) { Write-Host '  Mirror: https://github.com/peterlianpi/about-me' }

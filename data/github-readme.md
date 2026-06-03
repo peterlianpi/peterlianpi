@@ -51,7 +51,7 @@ curl -fsSL https://raw.githubusercontent.com/peterlianpi/zolai-ai/master/install
 - **P-Core System** – Modular multi-tenant management platform with RBAC.
 - **EBYF Info** – PWA for church youth contact management ([repo](https://github.com/peterlianpi/ebyf-info)).
 - **[peterlianpi.site](https://peterlianpi.site)** – Live portfolio & Zolai language hub.
-- **[about-me](https://github.com/peterlianpi/about-me)** – Portfolio site source (JSON → build → deploy).
+- **[portfolio-site](https://github.com/peterlianpi/peterlianpi/tree/portfolio-site)** – Portfolio site source (JSON → build → deploy).
 
 ---
 
@@ -71,7 +71,7 @@ curl -fsSL https://raw.githubusercontent.com/peterlianpi/zolai-ai/master/install
   <a href="https://huggingface.co/peterpausianlian"><img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black" alt="HuggingFace" /></a>
   <a href="https://www.kaggle.com/peterpausianlian"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://peterlianpi.site"><img src="https://img.shields.io/badge/Portfolio-peterlianpi.site-0EA5E9?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://github.com/peterlianpi/about-me"><img src="https://img.shields.io/badge/Portfolio_Source-about--me-2834C4?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source" /></a>
+  <a href="https://github.com/peterlianpi/peterlianpi/tree/portfolio-site"><img src="https://img.shields.io/badge/Portfolio_Source-code-2834C4?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source" /></a>
 </div>
 
 <br/>
