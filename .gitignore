@@ -2,6 +2,7 @@
 Thumbs.db
 *.log
 .live-check.html
+_github-profile/
 
 # Secrets
 deploy/secrets.env
