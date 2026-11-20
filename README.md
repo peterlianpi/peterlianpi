@@ -8,17 +8,17 @@
 
 ## 👋 About
 
-I'm Peter Pau Sian Lian ([@peterlianpi](https://github.com/peterlianpi)), a junior engineer building full-stack web products and AI/data systems. At **Global Technology Group** I work with PHP, Laravel, Blade, WordPress, and MySQL; in personal projects I build with React/Next.js, TypeScript, Python, and Postgres.
+I'm Peter Pau Sian Lian ([@peterlianpi](https://github.com/peterlianpi)), an SAE (Web Development) building full-stack web products and AI/data systems. At **Global Technology Group** I work with PHP, Laravel, Blade, WordPress, and MySQL; in personal projects I build with React/Next.js, TypeScript, Python, and Postgres.
 
 I focus on practical tools with verifiable data, contract-first APIs, and systems that can be deployed and operated, not just demoed.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Role-Junior_Engineer__@_GTG-2834C4?style=for-the-badge&labelColor=020617" alt="Role: Junior Engineer @ GTG" />
+  <img src="https://img.shields.io/badge/Role-SAE_%7C_Web_Development-2834C4?style=for-the-badge&labelColor=020617" alt="Role: SAE | Web Development" />
   <img src="https://img.shields.io/badge/Focus-AI_%26_Scalable_Systems-38BDF8?style=for-the-badge&labelColor=020617" alt="Focus: AI & Scalable Systems" />
   <img src="https://img.shields.io/badge/Location-Yangon%2C_Myanmar-0EA5E9?style=for-the-badge&labelColor=020617" alt="Location: Yangon, Myanmar" />
 </div>
 
-**Currently:** Junior Engineer, Web Development (SAE) at GTG · BSc CS (UoPeople) · Yangon, Myanmar.
+**Currently:** **SAE | Web Development** at GTG · BSc CS (UoPeople) · Yangon, Myanmar.
 
 ---
 
