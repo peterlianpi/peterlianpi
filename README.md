@@ -26,7 +26,7 @@ I focus on practical tools with verifiable data, contract-first APIs, and system
 
 - **Full-stack web** — PHP, Laravel, Blade, WordPress, and MySQL in production work; React, Next.js, TypeScript, and Postgres in personal products.
 - **AI & data systems** — Python, FastAPI, and SQLite for Zolai's data tooling; RAG pipelines and AI gateways with provider failover.
-- **Platform & DevOps** — NestJS, Prisma, Hono, Bun, and pnpm for platform work; multi-tenancy, auth/RBAC, and contract-first APIs.
+- **Platform & DevOps** — NestJS, Prisma, Hono, Bun, and pnpm for platform work; multi-tenancy, auth/RBAC, contract-first APIs; Redis-backed jobs and Vitest-checked changes.
 - **Product delivery** — Gated plan → implement → verify → review, with evidence at every step.
 
 ---
@@ -73,7 +73,7 @@ A data-, evaluation-, and research-first effort to preserve **Tedim Zolai**; mod
 ## Tech & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,laravel,wordpress,nestjs,react,nextjs,nodejs,bun,vite,fastapi,tailwind,prisma,mysql,postgres,mongodb,sqlite,pnpm,git,github,docker,nginx,cloudflare,linux,ubuntu&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,laravel,wordpress,nestjs,react,nextjs,nodejs,bun,vite,fastapi,tailwind,prisma,mysql,postgres,mongodb,sqlite,redis,pnpm,vitest,git,github,docker,nginx,cloudflare,linux,ubuntu&perline=10" alt="Tech Stack" />
 </div>
 
 ---
