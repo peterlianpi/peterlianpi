@@ -18,16 +18,16 @@ I focus on practical tools with verifiable data, contract-first APIs, and system
   <img src="https://img.shields.io/badge/Location-Yangon%2C_Myanmar-0EA5E9?style=for-the-badge&labelColor=020617" alt="Location: Yangon, Myanmar" />
 </div>
 
-**Currently:** **Superintendent Assistant Engineer (SAE) | Web Development** at GTG · BSc CS (UoPeople) · Yangon, Myanmar.
+**Currently:** **Superintendent Assistant Engineer (SAE) | Web Development** at GTG · BSc Computer Science at UoPeople (in progress) · Yangon, Myanmar.
 
 ---
 
 ## What I Can Do
 
 - **Full-stack web** — PHP, Laravel, Blade, WordPress, and MySQL in production work; React, Next.js, TypeScript, and Postgres in personal products.
-- **AI & data systems** — Python and SQL for data tooling, RAG pipelines, and AI gateways with provider failover.
-- **Platform & DevOps** — Multi-tenancy, auth/RBAC, contract-first APIs, and systems built to be deployed and operated.
-- **Product delivery** — Gated plan -> implement -> verify -> review, with evidence at every step.
+- **AI & data systems** — Python, FastAPI, and SQLite for Zolai's data tooling; RAG pipelines and AI gateways with provider failover.
+- **Platform & DevOps** — NestJS, Prisma, Hono, Bun, and pnpm for platform work; multi-tenancy, auth/RBAC, and contract-first APIs.
+- **Product delivery** — Gated plan → implement → verify → review, with evidence at every step.
 
 ---
 
@@ -40,7 +40,7 @@ I focus on practical tools with verifiable data, contract-first APIs, and system
 A modular multi-tenant platform: a NestJS platform API, a Next.js 16 studio, a worker, and shared `@pcore/*` packages. Better Auth with RBAC and tenancy, contract-first schemas, a native workflow engine, and one AI gateway serve every product. The private core lives in `P-Core-System/pcore`, spanning ~18-20 subprojects.
 
 - **[P-Core Assistant](https://assistant.pcore-system.site)** — a **live pilot** (Pre-v0.1.0): web chat and Telegram, admin-configured personas and providers, provider failover, and RAG.
-- **[P-Core Orchestra](https://github.com/P-Core-System/pcore-orchestra)** — MIT, v3.10.1, production-ready plan -> implement -> verify -> review loop for Cursor, OpenCode, Qoder, Claude Code, and Codex.
+- **[P-Core Orchestra](https://github.com/P-Core-System/pcore-orchestra)** — MIT, v3.10.1, production-ready plan → implement → verify → review loop for Cursor, OpenCode, Qoder, Claude Code, and Codex.
 
 ### 🗣️ Zolai AI *(featured)*
 
@@ -63,17 +63,17 @@ A data-, evaluation-, and research-first effort to preserve **Tedim Zolai**; mod
 
 ## How I Work
 
-- AI-assisted, human-directed: agents accelerate the work, but a human directs it and owns the standard.
-- Contract-first HTTP JSON APIs that stay consistent across PHP, TypeScript, and Python stacks.
-- Evidence over claims — tests, checks, and reviewed diffs before anything is called done.
-- Gated plan -> implement -> verify -> review, then deploy, monitor, and operate.
+- AI-assisted, human-directed: agents accelerate the work; a human owns the decisions and the standard.
+- Contract-first HTTP JSON APIs across PHP, TypeScript, and Python stacks — NestJS services and FastAPI tooling.
+- Evidence over claims — tests, checks, and reviewed diffs before calling anything done.
+- Gated plan → implement → verify → review, then deploy on Cloudflare and monitor what ships.
 
 ---
 
 ## Tech & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,js,ts,python,react,nextjs,nodejs,postgres,mongodb,html,css,tailwind,git,github,linux,ubuntu,docker,nginx&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,laravel,wordpress,nestjs,react,nextjs,nodejs,bun,vite,fastapi,tailwind,prisma,mysql,postgres,mongodb,sqlite,pnpm,git,github,docker,nginx,cloudflare,linux,ubuntu&perline=10" alt="Tech Stack" />
 </div>
 
 ---
