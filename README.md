@@ -6,11 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2834C4&center=true&vCenter=true&width=600&lines=Building+Scalable+Software;AI+%26+Data+Enthusiast;Passionate+Problem+Solver;Long-Term+Tech+Entrepreneur" alt="Typing SVG" />
 </div>
 
-## 👋 About Me
+## 👋 About
 
-I'm passionate about building useful software, learning new technologies, and solving real-world problems with code. I work mostly across web development, artificial intelligence, data systems, and modular software architecture. 
+I'm Peter Pau Sian Lian ([@peterlianpi](https://github.com/peterlianpi)), a junior engineer building full-stack web products and AI/data systems. At **Global Technology Group** I work with PHP, Laravel, Blade, WordPress, and MySQL; in personal projects I build with React/Next.js, TypeScript, Python, and Postgres.
 
-> 💡 **My mission** is to build meaningful technology that helps people and communities grow, ultimately aiming to become a technology entrepreneur.
+I focus on practical tools with verifiable data, contract-first APIs, and systems that can be deployed and operated, not just demoed.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Role-Junior_Engineer__@_GTG-2834C4?style=for-the-badge&labelColor=020617" alt="Role: Junior Engineer @ GTG" />
@@ -18,11 +18,59 @@ I'm passionate about building useful software, learning new technologies, and so
   <img src="https://img.shields.io/badge/Location-Yangon%2C_Myanmar-0EA5E9?style=for-the-badge&labelColor=020617" alt="Location: Yangon, Myanmar" />
 </div>
 
-**Currently:** Junior Engineer, Web Development (SAE) at **Global Technology Group (GTG)** · BSc Computer Science (UoPeople) · PHP, Laravel, Blade, WordPress, MySQL at work · React/Next.js in personal projects · Piano & music theory on the side.
+**Currently:** Junior Engineer, Web Development (SAE) at GTG · BSc CS (UoPeople) · Yangon, Myanmar.
 
 ---
 
-## 🛠 Tech & Tools
+## What I Can Do
+
+- **Full-stack web** — PHP, Laravel, Blade, WordPress, and MySQL in production work; React, Next.js, TypeScript, and Postgres in personal products.
+- **AI & data systems** — Python and SQL for data tooling, RAG pipelines, and AI gateways with provider failover.
+- **Platform & DevOps** — Multi-tenancy, auth/RBAC, contract-first APIs, and systems built to be deployed and operated.
+- **Product delivery** — Gated plan -> implement -> verify -> review, with evidence at every step.
+
+---
+
+## 🚀 What I'm Building
+
+### 🧩 P-Core System *(featured)*
+
+[![Platform](https://img.shields.io/badge/Platform-pcore--system.site-2834C4?style=for-the-badge)](https://pcore-system.site)
+
+A modular multi-tenant platform: a NestJS platform API, a Next.js 16 studio, a worker, and shared `@pcore/*` packages. Better Auth with RBAC and tenancy, contract-first schemas, a native workflow engine, and one AI gateway serve every product. The private core lives in `P-Core-System/pcore`, spanning ~18-20 subprojects.
+
+- **[P-Core Assistant](https://assistant.pcore-system.site)** — a **live pilot** (Pre-v0.1.0): web chat and Telegram, admin-configured personas and providers, provider failover, and RAG.
+- **[P-Core Orchestra](https://github.com/P-Core-System/pcore-orchestra)** — MIT, v3.10.1, production-ready plan -> implement -> verify -> review loop for Cursor, OpenCode, Qoder, Claude Code, and Codex.
+
+### 🗣️ Zolai AI *(featured)*
+
+[![Live](https://img.shields.io/badge/Live-zolai.space-38BDF8?style=for-the-badge)](https://zolai.space/)
+[![Open source](https://img.shields.io/badge/Open_source-Zolai--AI-2834C4?style=for-the-badge)](https://github.com/Zolai-AI)
+
+A data-, evaluation-, and research-first effort to preserve **Tedim Zolai**; model training comes later. The Zolai-AI org's open-source repositories are MIT-licensed.
+
+- **Live:** [Landing](https://zolai.space/) · [Studio](https://studio.zolai.space/) · [MCP](https://mcp.zolai.space/mcp) · [API](https://api.zolai.space)
+- **Data:** Bilingual dictionaries, Bible parallels, and learner corpora for Tedim Zolai (ZVS 2018).
+- **Repos:** [zolai-core](https://github.com/Zolai-AI/zolai-core) · [zolai-web](https://github.com/Zolai-AI/zolai-web) · [zolai-tauri](https://github.com/Zolai-AI/zolai-tauri) · [zolai-datasets](https://github.com/Zolai-AI/zolai-datasets) · [zolai-wiki](https://github.com/Zolai-AI/zolai-wiki) · [zolai-mcp-server](https://github.com/Zolai-AI/zolai-mcp-server) · [zolai-landing](https://github.com/Zolai-AI/zolai-landing)
+
+### Other Projects
+
+- **EBYF Info** – PWA for church youth contact management ([repo](https://github.com/peterlianpi/ebyf-info)).
+- **[peterlianpi.site](https://peterlianpi.site)** – Live portfolio & Zolai language hub.
+- **[portfolio-site](https://github.com/peterlianpi/peterlianpi/tree/portfolio-site)** – Portfolio site source (JSON → build → deploy).
+
+---
+
+## How I Work
+
+- AI-assisted, human-directed: agents accelerate the work, but a human directs it and owns the standard.
+- Contract-first HTTP JSON APIs that stay consistent across PHP, TypeScript, and Python stacks.
+- Evidence over claims — tests, checks, and reviewed diffs before anything is called done.
+- Gated plan -> implement -> verify -> review, then deploy, monitor, and operate.
+
+---
+
+## Tech & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,js,ts,python,react,nextjs,nodejs,postgres,mongodb,html,css,tailwind,git,github,linux,ubuntu,docker,nginx&perline=10" alt="Tech Stack" />
@@ -30,36 +78,11 @@ I'm passionate about building useful software, learning new technologies, and so
 
 ---
 
-## 🚀 What I'm Building
+## Learning
 
-### 🧠 Zolai AI Second Brain *(Featured)*
-[![CI](https://github.com/peterlianpi/zolai-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/peterlianpi/zolai-ai/actions/workflows/ci.yml)
-[![HuggingFace](https://img.shields.io/badge/🤗-peterpausianlian-blue)](https://huggingface.co/peterpausianlian)
-[![Kaggle](https://img.shields.io/badge/Kaggle-datasets-20BEFF)](https://www.kaggle.com/peterpausianlian)
-
-**[peterlianpi/zolai-ai](https://github.com/peterlianpi/zolai-ai)** — Open-source NLP toolkit to digitize, standardize & preserve the **Tedim Zolai** (Tedim Chin) language through AI.
-
-- 📚 152k-entry ZO↔EN dictionary · 93k+ Bible parallel verses · ~2M training sentences
-- 🤖 Fine-tuned [Qwen2.5-3B LoRA](https://huggingface.co/peterpausianlian/zolai-qwen2.5-3b-lora) · QLoRA 4-bit · Kaggle T4
-- 🏗 Python · FastAPI · Next.js 16 · 34 AI agents · 46 skill modules
-
-```bash
-curl -fsSL https://raw.githubusercontent.com/peterlianpi/zolai-ai/master/install.sh | bash
-```
-
-### Other Projects
-- **P-Core System** – Modular multi-tenant management platform with RBAC.
-- **EBYF Info** – PWA for church youth contact management ([repo](https://github.com/peterlianpi/ebyf-info)).
-- **[peterlianpi.site](https://peterlianpi.site)** – Live portfolio & Zolai language hub.
-- **[portfolio-site](https://github.com/peterlianpi/peterlianpi/tree/portfolio-site)** – Portfolio site source (JSON → build → deploy).
-
----
-
-## 📚 Learning
-
-- **Architecture**: Laravel & WordPress at work; Laravel, React, SQL, and Next.js in personal projects.
-- **Data & ML**: Data analytics with SQL/Python, machine learning fundamentals.
-- **AI**: Low-resource NLP, LLM fine-tuning, and language preservation through AI.
+- **Web** — Laravel and WordPress at work; React, Next.js, and TypeScript personally.
+- **Data & AI** — Python and SQL, RAG, low-resource NLP, and evaluation-first datasets.
+- **Delivery** — Contract-first APIs, observability, and verification gates.
 
 ---
 
